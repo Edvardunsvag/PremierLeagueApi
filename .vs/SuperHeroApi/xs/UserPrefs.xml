@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{9BECE0D7-9E56-416E-A105-ED9D508CE3A7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperHeroApi/Data/DataContext.cs">
+    <Files>
+      <File FileName="SuperHeroApi/Program.cs" Line="25" Column="4" />
+      <File FileName="SuperHeroApi/Controllers/SuperHeroController.cs" Line="81" Column="40" />
+      <File FileName="SuperHeroApi/SuperHero.cs" Line="13" Column="22" />
+      <File FileName="SuperHeroApi/Migrations/20220913103606_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="SuperHeroApi/Migrations/20220914083829_RemovedNamesAndAddedScore.cs" Line="1" Column="1" />
+      <File FileName="SuperHeroApi/Migrations/DataContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="SuperHeroApi/Data/DataContext.cs" Line="17" Column="2" />
+      <File FileName="SuperHeroApi/Migrations/20221004095033_SecondCreate.cs" Line="23" Column="10" />
+      <File FileName="SuperHeroApi/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperHeroApi" expanded="True">
+            <Node name="SuperHeroApi" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="DataContext.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SuperHeroApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
